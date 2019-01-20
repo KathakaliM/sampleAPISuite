@@ -2,10 +2,15 @@
 Steps to run the test suite designed in java and TestNG
 
 Download the file and import in eclipse
+
 Right click on the testng.xml 
+
 Run as TestNG Suite
-It will show the log in console\
+
+It will show the log in console
+
 Now  open the file folder from document and open 'test output' folder
+
 open emailable-report.html in browser which will show the entire report summary
 
 Test Methods---
