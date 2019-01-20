@@ -24,4 +24,4 @@ Test Methods---
 - verifying CountryEndpoint feature to get all the 232 countries code and dialling_code
 
 4.test_Local_Num_Feature (requestGet.GetRequestData#test_Local_Num_Feature)
--verifying National (Local) Numbers feature to get local format value
+- verifying National (Local) Numbers feature to get local format value
