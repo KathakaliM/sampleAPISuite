@@ -1,6 +1,7 @@
 # sampleAPISuite
 Steps to run the test suite designed in java and TestNG
-download the file and import in eclipse
+
+Download the file and import in eclipse
 Right click on the testng.xml 
 Run as TestNG Suite
 It will show the log in console\
