@@ -7,7 +7,7 @@ Right click on the testng.xml
 
 Run as TestNG Suite
 
-It will show the log in console
+It will show the log  console
 
 Now  open the file folder from document and open 'test output' folder
 
