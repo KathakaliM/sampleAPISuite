@@ -11,7 +11,9 @@ It will show the log  console
 
 Now  open the file folder from document and open 'test output' folder
 
-open emailable-report.html in browser which will show the entire report summary
+I have added two screen recordings videos as well  file name is TestVideo
+
+Also to check the report can open emailable-report.html in browser which will show the entire report summary
 
 Test Methods---
 1. numberValidation (requestGet.GetRequestData#numberValidation)
